@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Grant's first website using github pages!
 
-I'm glad you are here. I plan to talk about ...
+Hopefully this *knowledge* will be of use to me soon.
+Have a **fantastic** day! Thanks for stopping by.
